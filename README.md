@@ -7,9 +7,7 @@
 
 ## 📁 Project Structure
 
-/workspace/source/code_je/251104/
-
-│
+/workspace/source/code_je/251104/│
 ├── utils.py # 공통 유틸 함수 (정규화, 스케일러 로딩 등)
 ├── Final_Preprocessing.py # 최종 전처리 스크립트
 ├── Survey_Preprocessing.py # 설문 데이터 정리
