@@ -1,0 +1,8 @@
+/workspace/source/code_je/251104/
+│
+├── utils.py                         # 기존 유틸 (수정 없음)
+├── json/features.json               # 피처 리스트
+├── scaler/z_score_뇌졸중.pkl
+│   └── z_score_심장병(심근경색및협심증).pkl
+├── clean_data/Prep_251104.csv       # 최종 전처리 데이터
+├── inference_pipeline.py              ← 새로 정리된 실행 파일
