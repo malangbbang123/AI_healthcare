@@ -84,9 +84,7 @@
 
 ## 🧪 5️⃣ Run Inference
 
-```bash
 python Inference.py
-
 
 
 Running inference for [뇌졸중]
@@ -101,7 +99,7 @@ Saved results → /workspace/source/test/20250101/Results/Inference_뇌졸중/in
 
 
 
-🚀 Requirements
+## 🚀 Requirements
 Python 3.10+
 pandas
 numpy
@@ -113,7 +111,7 @@ joblib
 json
 pickle
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 홍지은 (Jieun Hong)
 Machine Learning Researcher – Neurodigm
